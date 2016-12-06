@@ -1,1 +1,1 @@
-# Index test file for Open Publishing
+# Testovací soubor indexu pro otevřít publikování
